@@ -20,15 +20,21 @@ verify if it has been setup properly using the following command:
 
 ### Making folder for a Local Repo
 <pre>
-
+Since we have verified our user setup status now, we are ready to
+make our local repository. For this, we need to make a folder on
+our system first using the following commands: (Not Git Commands)
 </pre>
     mkdir YourRepoName
 <br>
 
 ### Initializing a local Repository
 <pre>
-
+Now that our folder is ready, let's enter it and initialize our
+local repository so get started with git properly. Run the first
+command to enter the folder and then second one to initialize a
+local repository in that folder:
 </pre>
+    cd YourRepoName
     git init
 <br>
 
