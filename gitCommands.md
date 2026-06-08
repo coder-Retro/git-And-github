@@ -14,7 +14,7 @@
     mkdir YourRepoName
     cd YourRepoName
 
-### Initializing a local Repository
+### Initializing a Local Repo
     git init
 
 ### Connecting Local Repo to Remote Repo
