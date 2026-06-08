@@ -23,8 +23,8 @@
 ### Verify Remote
     git remote -v
 
-### Name your current Local Repo Branch as main
-    git branch -M main
+### Rename Current Local Repo Branch
+    git branch -M NewBranchName
 
 ### Check current branch
     git branch
