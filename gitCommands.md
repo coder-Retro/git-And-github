@@ -29,7 +29,7 @@
 ### Check current branch
     git branch
 
-### Pulling Contents of Remote's Branch
+### Pull Contents of Remote's Branch to Local's Branch
     git pull origin TargetBranchName
 
 ### Creating & Switching a Branch in Local Repo
