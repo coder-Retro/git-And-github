@@ -38,6 +38,9 @@
 ### Switching Branch within Local Repo
     git switch TargetBranchName
 
+### Delete a Branch
+    git branch -d TargetBranchName
+
 ### Check Status of Changes Made in files
     git status
 
