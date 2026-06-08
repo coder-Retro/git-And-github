@@ -38,3 +38,6 @@
 
 ### Push file from Local Repo to Remote Repo
     git push origin TargetBranchName
+
+# Intermediate Git Commands
+
