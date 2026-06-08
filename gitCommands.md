@@ -4,7 +4,7 @@
     git config --global user.name "YourGithubUsername"
     git config --global user.email "YourEmail" 
 
-### Checking the User Setup Status
-    git congig --list
+### Checking the User Status
+    git config --list
 
 ### Initializing a local Repository
