@@ -1,5 +1,8 @@
 # Basic Git Commands
 
+### Checking git version
+    git --version
+
 ### Setting up the User
     git config --global user.name "YourGithubUsername"
     git config --global user.email "YourEmail" 
