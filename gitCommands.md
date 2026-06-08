@@ -33,7 +33,7 @@
     git switch TargetBranchName
 
 ### Add & Commit a file to start push process
-    git add YourFileName
+    git add TargetFileName
     git commit -m "AnyCommitMessage"
 
 ### Push file from Local Repo to Remote Repo
