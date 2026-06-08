@@ -62,3 +62,6 @@
 
 ### Merge Another Branch with Current Branch
     git merge TargetBranchName
+
+### Abort a merge
+    git merge --abort
