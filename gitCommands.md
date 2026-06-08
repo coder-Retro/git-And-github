@@ -26,6 +26,9 @@
 ### Name your current Local Repo Branch as main
     git branch -M main
 
+### Check current branch
+    git branch
+
 ### Pulling Contents of Remote's Branch
     git pull origin TargetBranchName
 
