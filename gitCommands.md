@@ -22,7 +22,7 @@ verify if it has been setup properly using the following command:
 <pre>
 Since we have verified our user setup status now, we are ready to
 make our local repository. For this, we need to make a folder on
-our system first using the following commands: (Not Git Commands)
+our system first using the following command: (Not a Git Command)
 </pre>
     mkdir YourRepoName
 <br>
