@@ -32,6 +32,9 @@
 ### Switching Branch within Local Repo
     git switch TargetBranchName
 
+### Check Status of Changes Made in files
+    git status
+
 ### Add & Commit a file to start push process
     git add TargetFileName
     git commit -m "AnyCommitMessage"
