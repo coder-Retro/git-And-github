@@ -12,3 +12,6 @@
 
 ### Connecting Local Repo to Remote Repo
     git remote add origin YourRemoteRepoURL
+
+### Selecting a Branch of Repo
+    git branch YourBranchName
