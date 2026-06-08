@@ -9,8 +9,7 @@ your username and email to git using command line through following:
     git config --global user.name "YourGithubUsername"
     git config --global user.email "YourEmail" 
 
-<br>
-
+</br>
 ### Checking the User Status
 
 Now that you are done with setup of your username and email, let's
@@ -18,26 +17,21 @@ verify if it has been setup properly using the following command:
 
     git config --list
 
-<br>
-
+</br>
 ### Making folder for a Local Repo
     mkdir YourRepoName
 
-<br>
-
+</br>
 ### Initializing a local Repository
     git init
 
-<br>
-
+</br>
 ### Connecting Local Repo to Remote Repo
     git remote add origin YourRemoteRepoURL
 
-<br>
-
+</br>
 ### Selecting a Branch of Repo
     git branch YourBranchName
 
-<br>
-
+</br>
 ### 
