@@ -26,11 +26,11 @@
 ### Pulling Contents of Remote's main to Local's main
     git pull origin main
 
-### Creating & Selecting a Branch in Local Repo
+### Creating & Switching a Branch in Local Repo
     git switch -c YourBranchName
 
-### Changing Branch within Local Repo
-    git branch BranchName
+### Switching Branch within Local Repo
+    git switch BranchName
 
 ### Add & Commit a file to start push process
     git add YourFileName
