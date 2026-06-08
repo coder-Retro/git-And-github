@@ -55,3 +55,10 @@
     git clone TargetRepoURL
 
 ---
+# Intermediate Git Commands
+
+### Compare Current Branch to Another Branch
+    git diff TargetBranchName
+
+### Merge Current Branch with Another Branch
+    git merge TargetBranchName
