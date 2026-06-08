@@ -11,10 +11,10 @@
 
 ### Making folder for a Local Repo
     mkdir YourRepoName
+    cd YourRepoName
 <br>
 
 ### Initializing a local Repository
-    cd YourRepoName
     git init
 <br>
 
