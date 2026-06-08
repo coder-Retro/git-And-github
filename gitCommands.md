@@ -42,5 +42,8 @@
 ### Push file from Local Repo to Remote Repo
     git push origin TargetBranchName
 
+### Cloning Someone's Repo
+    git clone TargetRepoURL
+
 ---
 # Intermediate Git Commands
