@@ -22,3 +22,9 @@
 
 ### Selecting a Branch of Repo
     git branch YourBranchName
+
+### Add & Commit a file to start push process
+    git add YourFileName
+
+### Push file from Local Repo to Remote Repo
+    git push origin YourBranchName
