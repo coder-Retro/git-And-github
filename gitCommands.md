@@ -20,8 +20,17 @@
 ### Connecting Local Repo to Remote Repo
     git remote add origin YourRemoteRepoURL
 
-### Selecting a Branch of Local Repo
-    git branch YourBranchName
+### Selecting Main Branch in Local Repo
+    git branch -M main
+
+### Pulling Contents of Remote's main to Local's main
+    git pull origin main
+
+### Creating & Selecting a Branch in Local Repo
+    git switch -c YourBranchName
+
+### Changing Branch within Local Repo
+    git branch BranchName
 
 ### Add & Commit a file to start push process
     git add YourFileName
