@@ -60,5 +60,5 @@
 ### Compare Current Branch to Another Branch
     git diff TargetBranchName
 
-### Merge Current Branch with Another Branch
+### Merge Another Branch with Current Branch
     git merge TargetBranchName
