@@ -52,4 +52,3 @@
     git clone TargetRepoURL
 
 ---
-# Intermediate Git Commands
