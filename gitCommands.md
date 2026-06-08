@@ -65,3 +65,21 @@
 
 ### Abort a merge
     git merge --abort
+
+### Undo Added Changes in specific file
+    git reset TargetFileName
+
+### Undo Added Changes in all Added files
+    git reset
+
+### Undo Last Commit
+    git reset HEAD~1
+
+### Undo Multiple Commits
+    git reset TargetCommitHash
+
+### Undo Multiple Commits & Restore Code
+    git reset --hard TargetCommitHash
+    
+### View Commit Logs
+    git log
