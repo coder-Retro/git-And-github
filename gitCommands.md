@@ -29,9 +29,6 @@
 ### Check current branch
     git branch
 
-### Pull Contents of Remote's Branch to Local's Branch
-    git pull origin TargetBranchName
-
 ### Creating & Switching a Branch in Local Repo
     git switch -c NewBranchName
 
@@ -40,6 +37,9 @@
 
 ### Delete a Branch
     git branch -d TargetBranchName
+
+### Pull Contents of Remote's Branch to Local's Branch
+    git pull origin TargetBranchName
 
 ### Check Status of Changes Made in files
     git status
