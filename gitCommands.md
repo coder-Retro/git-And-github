@@ -20,6 +20,9 @@
 ### Connecting Local Repo to Remote Repo
     git remote add origin YourRemoteRepoURL
 
+### Verify Remote
+    git remote -v
+
 ### Name your current Local Repo Branch as main
     git branch -M main
 
