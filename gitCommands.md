@@ -1,6 +1,11 @@
 # Basic Git Commands
 
 ### Setting up the User
+<pre>
+First your need to setup a user account so that git knows that which
+github user it is currently dealing with. For this, you need to give
+your username and email to git using command line through following:
+</pre>
     git config --global user.name "YourGithubUsername"
     git config --global user.email "YourEmail" 
 
