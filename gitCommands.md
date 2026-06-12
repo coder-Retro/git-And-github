@@ -61,8 +61,11 @@
 ### Rename Current Local Repo Branch
     git branch -M NewBranchName
 
-### Delete a Branch
+### Delete a Branch in Local Repo
     git branch -d TargetBranchName
+
+### Delete a Branch in Remote Repo
+    git push origin -d TargetBranchName
 
 ### Compare Current Branch to Another Branch
     git diff TargetBranchName
